@@ -1,0 +1,66 @@
+body {  
+    background-image: url('https://wallpapers.com/images/hd/wallpaper-red-dead-redemption-2-rockstar-games-4k-games-cwx8kbho9mfim8n7.jpg');  
+    background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */  
+    background-position: center; /* Centra la imagen de fondo */  
+    background-repeat: no-repeat; /* Evita que se repita la imagen */  
+    font-family: 'Georgia', serif;  
+    margin: 20px;  
+    padding: 10px;  
+}  
+
+h1 {
+    color: #8b0000; /* Vermell fosc */
+    text-align: center;
+    font-family: 'Arial Black', sans-serif;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.8); /* Fons blanc amb transparència */
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+
+ul {
+    list-style-type: square;
+    color: #8b0000; /* Vermell fosc */
+}
+
+ul li {
+    overflow: hidden; /* Ajustar contingut */
+}
+
+.personatge-img {
+    float: left; /* Alinear la imatge a l'esquerra */
+    margin-right: 10px; /* Espai entre la imatge i el text */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #8b0000; /* Vermell fosc */
+    color: white;
+    border-radius: 5px;
+}
+
+a {
+    color: #ffd700; /* Or */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
